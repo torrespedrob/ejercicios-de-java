@@ -24,7 +24,7 @@ public class Ejercicio3 {
         dia = "Jueves";
         break;
       case 5:
-        dia = "viernes";
+        dia = "Viernes";
         break;
       case 6:
         dia = "Sábado";
