@@ -5,7 +5,7 @@
 
 public class Ejercicio5 { // Clase principal
   public static void main(String[] args) {
-    System.out.println("Lunes    |Martes   |Miércoles|Jueves   |Viernes");
+    System.out.println("Lunes                |Martes              |Miércoles           |Jueves              |Viernes");
     System.out.println("\033[31mEED          \033[34mSINF         \033[35mPRO          \033[35mPRO          \033[34mSINF   ");
     System.out.println("\033[32mLM           \033[34mSINF         \033[35mPRO          \033[35mPRO          \033[34mSINF   ");
     System.out.println("\033[32mLM           \033[34mSINF         \033[35mPRO          \033[31mEED          \033[34mSINF   ");
