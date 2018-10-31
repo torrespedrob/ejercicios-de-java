@@ -7,7 +7,7 @@ public class Ejercicio15 {
   public static void main(String[] args) {
     System.out.println("Puedo hacer una pirámide con distintos caracteres");
     System.out.println("Introduce un caracter (*,+,-,$,&...");
-    String c = System.console().readLine());
+    String c = System.console().readLine();
     System.out.println("Ahora introduce la dirección en la que que se encuentra el vértice 1:arriba 2:abajo 3:izquierda 4:derecha");
     int eleccion = Integer.parseInt(System.console().readLine());
     
@@ -44,6 +44,13 @@ public class Ejercicio15 {
         System.out.println(r);
         break;
         
-      default:
+      default: 
+    }
   }
 }
+
+
+  
+
+  
+
