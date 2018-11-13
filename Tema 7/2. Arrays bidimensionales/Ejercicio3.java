@@ -1,10 +1,10 @@
 /**
- * Ejercicio 2
+ * Ejercicio 3
  * Arrays bidimensionales
  * Pedro Torres
  */
 
-public class Ejercicio2 {
+public class Ejercicio3 {
   public static void main(String[] args) { 
       int[][] n = new int[4][5];
 
