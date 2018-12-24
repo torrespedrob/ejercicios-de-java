@@ -1,4 +1,4 @@
-# Ejercicios de Java ✏
+# Ejercicios de Java ✏ 📚
 
 Pruebas con ejercicios de Java de la asignatura Programación de 1º DAM
 
