@@ -1,4 +1,4 @@
-public class Ejercicio4 {
+public class Ejercicio5 {
 	public static void main(String[] args) {
     System.out.println("Conversor de pesetas a euro:");
     double euro;
