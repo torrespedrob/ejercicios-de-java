@@ -1,0 +1,53 @@
+Pedro Torres
+Ejercicios de conceptos de POO:
+
+1.¿Cuáles serían los atributos de la clase PilotoDeFormula1 ? ¿Se te ocurren algunas
+instancias de esta clase?
+
+-Los atributos podrían ser nombre, edad, escuderia, altura, procedencia, etc.
+Unas instancias serían Fernando Alonso, 37 años, 1.75, Oviedo, Renault, etc.
+
+2. A continuación tienes una lista en la que están mezcladas varias clases con
+instancias de esas clases. Para ponerlo un poco más difícil, todos los elementos
+están escritos en minúscula. Di cuáles son las clases, cuáles las instancias,
+a qué clase pertenece cada una de estas instancias y cuál es la jerarquía
+entre las clases: paula, goofy, gardfiel, perro, mineral, caballo, tom, silvestre,
+pirita, rocinante, milu, snoopy, gato, pluto, animal, javier, bucefalo, pegaso,
+ayudante_de_santa_claus, cuarzo, laika, persona, pato_lucas.
+
+-Clases que aparecen: Animal, Mineral, Perro, Pirita, Gato, Cuarzo, Caballo, Persona.
+
+Relación entre clases e instancias: Animal -> ((Caballo: rocinante, bucefalo, pegaso.)
+(Perro: goofy, milu, snoopy, pluto, ayudante_de_Santa_Claus.) (Persona: paula, javier.)
+(Gato: garfield, tom, silvestre.), pato_lucas.)
+
+Mineral -> (pirita, cuarzo.)
+
+3. ¿Cuáles serían los atributos de la clase Vivienda ? ¿Qué subclases se te ocurren?
+
+-ventanas, chimenea, tamaño, ubicacion, garaje, etc.
+Subclases: piso, chalet, casa rural, etc.
+
+4. Piensa en la liga de baloncesto, ¿qué 5 clases se te ocurren para representar 5
+elementos distintos que intervengan en la liga?
+
+-Estadio, Equipo, Equipo Medico, Jugador, Arbitro.
+
+5. Haz una lista con los atributos que podría tener la clase caballo. A continuación
+haz una lista con los posibles métodos (acciones asociadas a los caballos).
+
+-raza, color, tamaño, edad, cola.
+Métodos: relincha, cabalga, come, trota.
+
+6. Lista los atributos de la clase Alumno ¿Sería nombre uno de los atributos de la
+clase? Razona tu respuesta.
+
+-nombre, edad, telefono, correo, contacto_padres, expediente, etc.
+nombre sí puede ser atributo y permite almacenar espacios, tildes y mayúsculas sin conflictos.
+
+7. ¿Cuáles serían los atributos de la clase Ventana (de ordenador)? ¿cuáles serían
+los métodos? Piensa en las propiedades y en el comportamiento de una
+ventana de cualquier programa.
+
+-Atributos: principal, urgencia, posicion, tamaño, redimensionable.
+Métodos de clase: minimizar, maximizar, enrrollable, redimensionar. 
